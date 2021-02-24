@@ -14,6 +14,6 @@ Esse curso está sendo desenvolvido com as seguintes tecnologias:
 
 ## :computer: Projeto
 
-Desenvolvimento dos das atividades e exemplos das aulas para melhor compreensão e entendimento do Curso Discover, disponível no site da Rocketseat
+Desenvolvimento das atividades e exemplos das aulas para melhor compreensão e entendimento do Curso Discover, disponível no site da Rocketseat
 
 https://rocketseat.com.br
