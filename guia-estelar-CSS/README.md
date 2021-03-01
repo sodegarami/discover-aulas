@@ -1,5 +1,5 @@
 <h1 align="center">
-    O guia estelar de HTML <br>
+    O guia estelar de CSS <br>
     
 </h1>
 
