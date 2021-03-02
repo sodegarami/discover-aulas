@@ -47,7 +47,7 @@ div p + p {
 
 ```
 
-* Você poderá usar pare desabilitar as partes do seu código
+* Você poderá usar para desabilitar as partes do seu código
 
 ```css
 
