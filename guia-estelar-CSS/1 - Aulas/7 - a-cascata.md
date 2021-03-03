@@ -23,3 +23,9 @@ inline > tag style > tag link
 10. Classes e attribute selectors ([type="radio"])
 100. ID selector
 1000. Inline
+
+### A regra !important
+
+* cuidado, evite o uso
+* não é considerado uma boa prática
+* quebra o fluxo natural da cascata
