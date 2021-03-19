@@ -1,4 +1,4 @@
-// Criar um aplicartivo de frases motivacionais
+// Criar um aplicativo de frases motivacionais
 
 // declaration - declaração da função
 // function statement
